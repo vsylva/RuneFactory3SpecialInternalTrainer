@@ -1,0 +1,2 @@
+[env]
+LIBMEM_DIR = { value = "lib", relative = true }
